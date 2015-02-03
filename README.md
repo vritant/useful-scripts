@@ -1,4 +1,4 @@
 useful-scripts
 ==============
 
-Misc. useful scritps
+Misc. useful scritps, dot files
