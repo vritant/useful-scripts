@@ -18,6 +18,13 @@ select distinct priority, trigger_group from qrtz_triggers;
 select job_name , priority from qrtz_triggers;
 ```
 
+* resume scheduler for next demo by making REST request:
+
+```
+POST https://localhost:8443/candlepin/jobs/scheduler ( contenttype application/json, request body: "true" )
+
+```
+
 
 ## Force re-trigger cron jobs
 
