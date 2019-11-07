@@ -1,0 +1,873 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CoQC-gAAAPVTeI_IazFXv-wZ9l-HBWM6BlUkSLSxESNBaxgaWR6nltm9XIcjrjzXh4a62QOcX92r1MnK-H5YsAKampLsXf-DAZD3_zr-VGKP6ZfNN0GRefxuSaLz5E5GBuuLKtV7AtlGjFWAaeTwX6aMgkttN5QQdqDQr_7xzz3eqV9d-wP-QysIYjBV2qtIlWaEel00XAJnazC2DzyTrKl3G8bFQ_2fFiR_VKY4FdYYlbpC-Uq-bJoxbU-xIfF_5cdX6BYqSjs2PHpt4FTcuJNn9ISOmzf1_wF8VOSbaO3_JZUbN5nd8UqebGOi1YDe1k6FJNwM5wnPQY4MadyLFP5A7bLEgl0SEHOtISCx99XnEN3-2R_7OtgaFOgwdTSUjlubMm0bcym4iQC3OPuM",
+  "results": [
+    {
+      "formatted_address": "Shop No.2-6-24, Sikh Rd, Secunderabad, Telangana 500009, India",
+      "geometry": {
+        "location": {
+          "lat": 17.460282,
+          "lng": 78.49051399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.46162572989272,
+            "lng": 78.49190112989272
+          },
+          "southwest": {
+            "lat": 17.45892607010728,
+            "lng": 78.48920147010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "fedbced635dbd224f981ebd87d96139b427c4db5",
+      "name": "Teja Motors Multi brand Car Services",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115624649876034578597/photos\">Vinay Kamal</a>"
+          ],
+          "photo_reference": "CmRaAAAAVVVuE59pVPkVE2x0zrwyK9JWJ7Hz9bXK5jgzqUyI0nDnwSUFfNLS1ioBtvJOJEjJwxmppRmujkoEsrgN6NUCU58BI-l6bb8Dsi2SNVym-OSqFI9PqtIdllyaM49U9DyZEhCyP6rYbwKhZU1dkll_lrnpGhTPCBs-Z08-cokshus0VoZnhNqWuQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJccXi4W6ayzsRw0pFhaaKdJo",
+      "plus_code": {
+        "compound_code": "FF6R+46 Secunderabad, Telangana",
+        "global_code": "7J9WFF6R+46"
+      },
+      "rating": 4.5,
+      "reference": "ChIJccXi4W6ayzsRw0pFhaaKdJo",
+      "types": [
+        "car_repair",
+        "car_wash",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16
+    },
+    {
+      "formatted_address": "H.NO.10-4, D/478, Adda Gutta, East Marredpally, Secunderabad, Telangana 500026, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4448764,
+          "lng": 78.5142741
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.44618472989272,
+            "lng": 78.51561527989273
+          },
+          "southwest": {
+            "lat": 17.44348507010728,
+            "lng": 78.51291562010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "4876534fbe7961fd2d3995f54212aba28105220d",
+      "name": "Right cabs",
+      "place_id": "ChIJD3iBH9ebyzsRB4ccvNhlsuI",
+      "plus_code": {
+        "compound_code": "CGV7+XP East Marredpally, Secunderabad, Telangana",
+        "global_code": "7J9WCGV7+XP"
+      },
+      "rating": 0,
+      "reference": "ChIJD3iBH9ebyzsRB4ccvNhlsuI",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "formatted_address": "No 148 Brigadier Sayeed Road, Balamrai, Secunderabad, Telangana 500003, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4471723,
+          "lng": 78.4871321
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.44852212989272,
+            "lng": 78.48848192989271
+          },
+          "southwest": {
+            "lat": 17.44582247010728,
+            "lng": 78.48578227010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "b67251222b8e8a129cdccd2f6d64daf6d14ebc7d",
+      "name": "Mahavir Skoda Showroom & Service Secunderabad",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112228233684443192159/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAKs16xpwO9p8qaqNsPvrtBgK4Rwm8etVPVSi84kc9LcbOUVati6Xk3BITKruY2roC9ac5iWS-qmm2Rhj0z0zgkmm_3kAAsLYsI38bJ98I6pznYJRoVi9LLLUgbMRPq_FSEhBoWSAhK7uwZEsEgBXnYXvoGhTJ6SLOT80XUJJFQLsyUYkRI5JGPA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJI_ZSDBKayzsRRGW-Es2Pd-4",
+      "plus_code": {
+        "compound_code": "CFWP+VV Secunderabad, Telangana",
+        "global_code": "7J9WCFWP+VV"
+      },
+      "rating": 4.1,
+      "reference": "ChIJI_ZSDBKayzsRRGW-Es2Pd-4",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 590
+    },
+    {
+      "formatted_address": "1-3-1039, Kavadiguda X Roads, Before Courtyard Marriot, 1, Lower Tank Bund Road, Bhagyalaxmi Nagar, Kavadiguda, Hyderabad, Telangana 500080, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4246735,
+          "lng": 78.4887421
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.42608537989273,
+            "lng": 78.49001867989271
+          },
+          "southwest": {
+            "lat": 17.42338572010728,
+            "lng": 78.48731902010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "5ac10274c2b950f707b72c7282bf290786193286",
+      "name": "Deccan Car Services.",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103829813292516349005/photos\">Akki Vinod Reddy</a>"
+          ],
+          "photo_reference": "CmRaAAAAmdIZDc3Cz3Wf4Uc8gSFRd7whGVr5tDpI1Ph34eRqm386Vg50tud4FH0zH0K8agluVtzvXmJni5BAczGTeph-FSz7WDedAAgpk1NE8vnUmtvIK6LVlP0T_R_HeKzfPLyIEhAXY2ZyMRoQ14AkHsamnu_0GhT9vmpQv2vfWSPywgYRKfN1zn-0Ow",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJCzl3BfeZyzsRZ6q0GNSLHYQ",
+      "plus_code": {
+        "compound_code": "CFFQ+VF Hyderabad, Telangana",
+        "global_code": "7J9WCFFQ+VF"
+      },
+      "rating": 3,
+      "reference": "ChIJCzl3BfeZyzsRZ6q0GNSLHYQ",
+      "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 77
+    },
+    {
+      "formatted_address": "PLOT 207/A, BRIG SYED ROAD BALAMRAI, CIRCLE, Tar Bund, Secunderabad, Telangana 500003, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4517197,
+          "lng": 78.4866119
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.45299642989272,
+            "lng": 78.48796272989273
+          },
+          "southwest": {
+            "lat": 17.45029677010728,
+            "lng": 78.4852630701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "4b84b867c3608ebb272e354f382da1e0b1cd8ec6",
+      "name": "BRINDAVAN MOTORS, TATA MOTORS SERVICE",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100482335145632498672/photos\">local local</a>"
+          ],
+          "photo_reference": "CmRaAAAAuOlS21QmVGDn47EVPjQob01hIEyR1aljm7SHatWmnrquZuEkdkaJDHof86A9qkWmgQ3yw02hABOJ4xJyEI7bNCN4Dd7BZ4O6z6_H8m4atViJrlHx_08XEGw7JknkmiouEhAc_X7ExxCmAf8nYhIx2Rn0GhT0yPM0IbOa_2VjPm9NfhRKGVl8Hw",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ5TEuVW2ayzsRK417Xt5aMoU",
+      "plus_code": {
+        "compound_code": "FF2P+MJ Secunderabad, Telangana",
+        "global_code": "7J9WFF2P+MJ"
+      },
+      "rating": 3.6,
+      "reference": "ChIJ5TEuVW2ayzsRK417Xt5aMoU",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 44
+    },
+    {
+      "formatted_address": "No 148 Brigadier Sayeed Road, Balamrai, Secunderabad, Telangana 500003, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4490294,
+          "lng": 78.4844129
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.45048447989272,
+            "lng": 78.48598032989271
+          },
+          "southwest": {
+            "lat": 17.44778482010728,
+            "lng": 78.48328067010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "e42e117183f6a4e22e41b074e1ffa2fcda80dff6",
+      "name": "ŠKODA Service Centre",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110412723965414850924/photos\">karri vamsi kumar</a>"
+          ],
+          "photo_reference": "CmRaAAAA3kZ0mJ7164KYz-RN1o-X4ixogxUeRRXqWGTfVoTtcdEbZ5b64fpiB9ynPIRMIwGhZ2Gqk5dDc0MHs2UHoFIQ1RIXVzUueFXK34Wd5Ipdh995lYkEe2vU8KmNWdCV-__sEhCkvpsluA5WOKoUI5jv7u51GhRMOH9qk_e1LfmcHTPyrVU0YDNybQ",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJu0yGsu2QyzsRJQUnutHw55s",
+      "plus_code": {
+        "compound_code": "CFXM+JQ Secunderabad, Telangana",
+        "global_code": "7J9WCFXM+JQ"
+      },
+      "rating": 4.1,
+      "reference": "ChIJu0yGsu2QyzsRJQUnutHw55s",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 282
+    },
+    {
+      "formatted_address": "8574, Distillary Road, Secunderabad, Andhra Pradesh - 500003, Hyderabad, 500003, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4294109,
+          "lng": 78.4885101
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.43074692989272,
+            "lng": 78.48987907989272
+          },
+          "southwest": {
+            "lat": 17.42804727010728,
+            "lng": 78.48717942010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "f3bbbe69fe908942aa665ce7cd79a61c7fa987df",
+      "name": "MAHINDRA Automotive Manufacturers Pvt Ltd",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1496,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114532429147296193732/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAqnvekUQD3WjQTDnN_7oE3rUR89xow3UKFWQObf08IFs0Zru8PSeM5xSxP5RJveVhc7KDv0tRuPuN3V0oxTYjbzBaUWiUGOOkB-qzJrHINN6wQVgu1nvBkCVTcEwimf2wEhBxDngsyqYB0LpA-2XQ885oGhRucqowvv73L9JcGINXjBC2ACmKBQ",
+          "width": 2656
+        }
+      ],
+      "place_id": "ChIJ91hVbB2ayzsRDYLOolh4Vzc",
+      "plus_code": {
+        "compound_code": "CFHQ+QC Hyderabad, Telangana",
+        "global_code": "7J9WCFHQ+QC"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ91hVbB2ayzsRDYLOolh4Vzc",
+      "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 80
+    },
+    {
+      "formatted_address": "1-4-436 Bholakpur Bus Stop, Musheerabad, Hyderabad, Telangana 500080, India",
+      "geometry": {
+        "location": {
+          "lat": 17.422833,
+          "lng": 78.49660709999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.42421362989272,
+            "lng": 78.49790537989271
+          },
+          "southwest": {
+            "lat": 17.42151397010728,
+            "lng": 78.49520572010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "9a675635591a2a11bfc831c5239170383037cbd0",
+      "name": "New Life Car Services Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110405272624727046397/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAqzJjIzCnLg_k7MJj8FWZKigi41c7HTji8Akjzum8VBgramdcbDNijPcmtOJvgokHdceioiyF_GH5c0xCSY7hTHd1Z55R4uOZDW0cl1Naq-GiNIu0cd9UGfrrP4gXUCA9EhC9JKUMRXF7-Box000bg7OpGhQKnNXE--aSlTfXAjRymjCZ8GxBZA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJGSudHheZyzsRIpOAp6DRNLA",
+      "plus_code": {
+        "compound_code": "CFFW+4J Hyderabad, Telangana",
+        "global_code": "7J9WCFFW+4J"
+      },
+      "rating": 0,
+      "reference": "ChIJGSudHheZyzsRIpOAp6DRNLA",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "formatted_address": "s.no216, Mudfort Rd, Old Mudfort, Mudfort, Gunrock Enclave, Secunderabad, Telangana 500009, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4566016,
+          "lng": 78.4924687
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.45786727989272,
+            "lng": 78.49379577989272
+          },
+          "southwest": {
+            "lat": 17.45516762010728,
+            "lng": 78.49109612010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "807e5fe599f5f7b54c8fecda06db6124ca7edc07",
+      "name": "Royal water car servicing center",
+      "place_id": "ChIJZ6tYRrWbyzsRgkHUXQY_OGU",
+      "plus_code": {
+        "compound_code": "FF4R+JX Gunrock Enclave, Secunderabad, Telangana",
+        "global_code": "7J9WFF4R+JX"
+      },
+      "rating": 5,
+      "reference": "ChIJZ6tYRrWbyzsRgkHUXQY_OGU",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1
+    },
+    {
+      "formatted_address": "Street No-8,Near Spencer,Genpact Shortcut, Street Number 8, Ravindra Nagar, Habsiguda, Secunderabad, Telangana 500007, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4086585,
+          "lng": 78.5438903
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.40999232989272,
+            "lng": 78.54533402989271
+          },
+          "southwest": {
+            "lat": 17.40729267010728,
+            "lng": 78.54263437010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "95f20ba1f2408b034be1c6422176cf15c279f47a",
+      "name": "Om Car Service Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJezDQBECZyzsRvGlXl8KtNkA",
+      "plus_code": {
+        "compound_code": "CG5V+FH Habsiguda, Hyderabad, Telangana",
+        "global_code": "7J9WCG5V+FH"
+      },
+      "rating": 3.5,
+      "reference": "ChIJezDQBECZyzsRvGlXl8KtNkA",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21
+    },
+    {
+      "formatted_address": "5-4-187/6, Necklace Rd, Karbala Maidan, Rani Gunj, Secunderabad, Telangana 500003, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4287483,
+          "lng": 78.4869226
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.43010437989272,
+            "lng": 78.48822457989273
+          },
+          "southwest": {
+            "lat": 17.42740472010728,
+            "lng": 78.48552492010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id": "5ef72146f913d4643c7370942c60f0094ddf936f",
+      "name": "Saboo Hyundai Service, Ranigunj",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2760,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102292502143477481588/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAA6X8fGT4MEoNCsiJqzOxa9nLdGJB9-tezhP45D0zH6Co9UH1lN8O8Uxl0D8I9GI0LLEeX19x6uBfFQ9jUFfVTuafIsKX1jOJt2L0xC4Dg9SEJHtdOMm84cCA-S96u7ooJEhCzTMrYXaEuBPaBWQjunhzJGhRe87kc2q2OfJYBdsVlCCC59ZjT_g",
+          "width": 4912
+        }
+      ],
+      "place_id": "ChIJa4qDUR2ayzsR6k-ZDIHl25k",
+      "plus_code": {
+        "compound_code": "CFHP+FQ Rani Gunj, Hyderabad, Telangana",
+        "global_code": "7J9WCFHP+FQ"
+      },
+      "rating": 4.4,
+      "reference": "ChIJa4qDUR2ayzsR6k-ZDIHl25k",
+      "types": [
+        "car_dealer",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 377
+    },
+    {
+      "formatted_address": "8/A, Santoshimaa Colony, Sanjeevaiah Nagar, West Marredpally, Secunderabad, Telangana 500026, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4550791,
+          "lng": 78.50871099999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.45641312989272,
+            "lng": 78.51008037989271
+          },
+          "southwest": {
+            "lat": 17.45371347010727,
+            "lng": 78.50738072010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "df9b23a7dc95973e24525836232c59aee36246c5",
+      "name": "Cabulo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJW5DGx8CbyzsRt40Dv-IwJAU",
+      "plus_code": {
+        "compound_code": "FG45+2F Secunderabad, Telangana",
+        "global_code": "7J9WFG45+2F"
+      },
+      "rating": 0,
+      "reference": "ChIJW5DGx8CbyzsRt40Dv-IwJAU",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "formatted_address": "Friends Colony, Musheerabad, Sri Sai Ram Enclave, Hyderabad, Telangana 500020, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4152971,
+          "lng": 78.50601859999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.41656457989273,
+            "lng": 78.50736477989271
+          },
+          "southwest": {
+            "lat": 17.41386492010728,
+            "lng": 78.50466512010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "091f40197011fa24bbc85e4085af1947a0ff55b8",
+      "name": "Universal Car Driver Services",
+      "place_id": "ChIJN2XPQSyZyzsRUyT4dlGCAP0",
+      "plus_code": {
+        "compound_code": "CG84+4C Hyderabad, Telangana",
+        "global_code": "7J9WCG84+4C"
+      },
+      "rating": 0,
+      "reference": "ChIJN2XPQSyZyzsRUyT4dlGCAP0",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "formatted_address": "5/2/185, DISTILLERY ROAD, RANIGUNJ,, Hyderabad, Telangana 500003, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4291749,
+          "lng": 78.48854589999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.43057842989272,
+            "lng": 78.48982127989271
+          },
+          "southwest": {
+            "lat": 17.42787877010728,
+            "lng": 78.48712162010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "184592cdc8f0ea71d2ca4e02854e7ef2edc610be",
+      "name": "CERAMIC PRO INDIA HEAD OFFICE",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115115880843657583042/photos\">vanamadi santosh</a>"
+          ],
+          "photo_reference": "CmRaAAAATUX3S76-foi3AXfYpdnVRwPg0XnlxSV-rsRHyIj2dO4WZ0nOKcuDbranqq-9KCKX134b6nBH3DYtbz5jLZLJGdiaZgDTGIjJJkEEdxzYuATgD_JDEurgyJuhzjhe53laEhBM7ZXRJlfAUmr241Cam7USGhQBzqifavjNlql7Ol7biS1gcllw9w",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJq6qqqhuayzsRYPhO7EPB5f4",
+      "plus_code": {
+        "compound_code": "CFHQ+MC Hyderabad, Telangana",
+        "global_code": "7J9WCFHQ+MC"
+      },
+      "rating": 4.3,
+      "reference": "ChIJq6qqqhuayzsRYPhO7EPB5f4",
+      "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 28
+    },
+    {
+      "formatted_address": "Shop No. Plot No. 247, Surabhi Crust Complex,, 1, Minister Rd, Secunderabad, Telangana 500003, India",
+      "geometry": {
+        "location": {
+          "lat": 17.434224,
+          "lng": 78.48454400000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.43555737989272,
+            "lng": 78.48588077989271
+          },
+          "southwest": {
+            "lat": 17.43285772010728,
+            "lng": 78.48318112010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "e3ab6e373cae6a49f35ad2f61a320c89eec97d0e",
+      "name": "Abhishek Car Point",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109635655705176113443/photos\">Car Point - Abhishek&#39;s</a>"
+          ],
+          "photo_reference": "CmRaAAAAD5zzbl9qzRCUnezeSVezQaBqMQSHp0_XWnRKNMgaHZM76a_vHFfhA0qWDhpg0FHYGyaf5AwWVxaIaWm4anl-1zBijgXUMnUR6_bp59dzgqqeNwNL-bB1OqQwDDNz098cEhAWta2RDQ5Cg3d8SZxns2h2GhS81zSe3TW1gyiPDK4yRBfWQN7m1g",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJPcQQmwSayzsRzHlcf9jqDZw",
+      "plus_code": {
+        "compound_code": "CFMM+MR Secunderabad, Telangana",
+        "global_code": "7J9WCFMM+MR"
+      },
+      "rating": 0,
+      "reference": "ChIJPcQQmwSayzsRzHlcf9jqDZw",
+      "types": [
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "formatted_address": "1-3-183/40/108/33/A,D.S.Nagar,SBI COLONY, Kavadiguda, Hyderabad, Telangana 500080, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4207261,
+          "lng": 78.48802049999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.42209077989272,
+            "lng": 78.48940157989273
+          },
+          "southwest": {
+            "lat": 17.41939112010727,
+            "lng": 78.48670192010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "6b0fd78cffee7dbf0f2cbd84bc9d551d99e4387f",
+      "name": "SNOW COOL CAR A/C",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116789485006724197786/photos\">A Google User</a>"
+          ],
+          "photo_reference": "CmRaAAAAkK6ofQFQ2qtuu8fPK1WFm_WcaZQG5Ls433lW4S7jzsmTQ6jsJ3ea6ksjIv3-wWWrM0YuuFsqVmTPSbF6VnWzyoN8KqnsxmtM095wZYl2D1OYNNedbMge4ItjnLibiQIBEhDG381OzcmZzxH0BTwHtBllGhT5SdgtQQnkpHbkzcY0YX5ORGjtnA",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJeYrI6vCZyzsRZumWaLLSeYs",
+      "plus_code": {
+        "compound_code": "CFCQ+76 Hyderabad, Telangana",
+        "global_code": "7J9WCFCQ+76"
+      },
+      "rating": 4.2,
+      "reference": "ChIJeYrI6vCZyzsRZumWaLLSeYs",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9
+    },
+    {
+      "formatted_address": "Teachers Colony, East Marredpally, Secunderabad, Telangana 500026, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4443829,
+          "lng": 78.50957749999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.44577372989272,
+            "lng": 78.51080757989273
+          },
+          "southwest": {
+            "lat": 17.44307407010728,
+            "lng": 78.50810792010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "5b6c5a78614f6d0c010be4b3b411ddcc02df7b88",
+      "name": "Grace Corporate Services India",
+      "opening_hours": {},
+      "place_id": "ChIJvVmTgzCayzsRWK8hTOTAdEI",
+      "plus_code": {
+        "compound_code": "CGV5+QR Secunderabad, Telangana",
+        "global_code": "7J9WCGV5+QR"
+      },
+      "rating": 0,
+      "reference": "ChIJvVmTgzCayzsRWK8hTOTAdEI",
+      "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 0
+    },
+    {
+      "formatted_address": "Srinagar - Kanyakumari Hwy, Kummu Gutta, Bowenpally, Secunderabad, Telangana 500009, India",
+      "geometry": {
+        "location": {
+          "lat": 17.451583,
+          "lng": 78.4866071
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.45295472989272,
+            "lng": 78.48795657989271
+          },
+          "southwest": {
+            "lat": 17.45025507010728,
+            "lng": 78.48525692010726
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "907fb949985c81aa121ffbaa499df5327fe89979",
+      "name": "Sk Auto Gas Conversions",
+      "photos": [
+        {
+          "height": 2208,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106685863402193228745/photos\">Ramesh Alluri</a>"
+          ],
+          "photo_reference": "CmRaAAAAPtWWfNw7MUEvt5Ytsc4-BXwR1Qr_6K2DxW5qIw3deZdlkwkWWIcLlw28qfKXUfUG2D4ixAh1bcPrIDuWm53FBZuHa7XFEtRi8ERlq771Fzy5VaGepKC5I7jhGJoGNAOMEhCp24ItjI6tYToEz4Vb1aL2GhRPU3oivQrnUiBwBBUN73keoTVzGw",
+          "width": 3920
+        }
+      ],
+      "place_id": "ChIJy3GSVW2ayzsRgYpFbXD1AFc",
+      "plus_code": {
+        "compound_code": "FF2P+JJ Secunderabad, Telangana",
+        "global_code": "7J9WFF2P+JJ"
+      },
+      "rating": 4.4,
+      "reference": "ChIJy3GSVW2ayzsRgYpFbXD1AFc",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5
+    },
+    {
+      "formatted_address": "No 148 Brigadier Sayeed Road, Balamrai, Secunderabad, Telangana 500003, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4491368,
+          "lng": 78.4843861
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.45058602989272,
+            "lng": 78.48594147989272
+          },
+          "southwest": {
+            "lat": 17.44788637010727,
+            "lng": 78.48324182010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "d4b2701d0796e83ac74433d7127345df38cc77f5",
+      "name": "ŠKODA Service Centre",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJha1xeHCayzsRZsvBWgPwrbQ",
+      "plus_code": {
+        "compound_code": "CFXM+MQ Secunderabad, Telangana",
+        "global_code": "7J9WCFXM+MQ"
+      },
+      "rating": 4.2,
+      "reference": "ChIJha1xeHCayzsRZsvBWgPwrbQ",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16
+    },
+    {
+      "formatted_address": "Railway Cricket Stadium, 10-5-413/A, Behind Rail Nilayam, Near, Tukaram Gate, Secunderabad, Telangana 500017, India",
+      "geometry": {
+        "location": {
+          "lat": 17.4399444,
+          "lng": 78.5185928
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.44129137989272,
+            "lng": 78.51998682989272
+          },
+          "southwest": {
+            "lat": 17.43859172010728,
+            "lng": 78.51728717010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "e85a219a9f02574092b6b2a1537d67ef556e533d",
+      "name": "Brindavan Motors Tata Motors Service",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103458612505770830397/photos\">Karingula Ganesh</a>"
+          ],
+          "photo_reference": "CmRaAAAAH9h15sd1GDOxkIUZdwe_0vvOXt5y2H7_e4jmHeZJh2OZ6KSPy3i2pMgqHBxmhE7btY-k3p4xl5w4azyW471EGE0ZA2dVUE-cWxTWWRxvRmb51-7tbt_0pnhvTwjdseZGEhCtbYmFVakWYQ1uSMj9hPNPGhTi3iXuEpAP4quJTztzKvffvrOGSQ",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ8zmkci2ayzsRHQPQiCXg8bU",
+      "plus_code": {
+        "compound_code": "CGQ9+XC Tukaram Gate, Secunderabad, Telangana",
+        "global_code": "7J9WCGQ9+XC"
+      },
+      "rating": 3.7,
+      "reference": "ChIJ8zmkci2ayzsRHQPQiCXg8bU",
+      "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 232
+    }
+  ],
+  "status": "OK"
+}

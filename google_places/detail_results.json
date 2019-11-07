@@ -1,0 +1,237 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Near",
+            "short_name" : "Near",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Nehru Outer Ring Road",
+            "short_name" : "Nehru Outer Ring Road",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Muthangi",
+            "short_name" : "Muthangi",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Hyderabad",
+            "short_name" : "Hyderabad",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Medak",
+            "short_name" : "Medak",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Telangana",
+            "short_name" : "Telangana",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "502307",
+            "short_name" : "502307",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eNear, Nehru Outer Ring Road\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eMuthangi\u003c/span\u003e, \u003cspan class=\"locality\"\u003eHyderabad\u003c/span\u003e, \u003cspan class=\"region\"\u003eTelangana\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e502307\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Near, Nehru Outer Ring Road, Muthangi, Hyderabad, Telangana 502307, India",
+      "formatted_phone_number" : "080994 99940",
+      "geometry" : {
+         "location" : {
+            "lat" : 17.542898,
+            "lng" : 78.22627299999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 17.5441597302915,
+               "lng" : 78.22759533029149
+            },
+            "southwest" : {
+               "lat" : 17.5414617697085,
+               "lng" : 78.22489736970849
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "international_phone_number" : "+91 80994 99940",
+      "name" : "PATELS CAR MOTORS",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100652728505747953221/photos\"\u003ePATELS CAR MOTORS\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAACEhTsVOwSGbbyjPZCQDzZCKuYnLqFptsBkw3wktEF1YRuaL2Ub7Tm2Q5z1iU6pDz3ytxD5wtjPjykwxv_CNMvvCXlt6irzpeAi_7NicwbBZid2o0Hl2hCx42YYMhq56XEhAzXMYMHzC6ExtJWm-tr7-vGhQioRZ4zOpwuO7rea__zzyAf4-4pQ",
+            "width" : 1280
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109054455151919522900/photos\"\u003eSrikar Reddy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA9qaF2kKTlhIWOL93wDkfgTC30i_Hx68SMQBvYXcOC13hfA81asLNCI19YRFYw29yWwFZwfzS_TqAY5wgQI4P9MPt2wSJvh_u43-amr9fuWC9GpCaDRiCWAeASrAC9b4JEhBpGNpAiZ6K_lk9Wqtk4wg0GhSa8jAn2KzLKUOesLPRJmIPiu1nqg",
+            "width" : 4032
+         },
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100652728505747953221/photos\"\u003ePATELS CAR MOTORS\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAnTRILzQe3jW3MJpKNgVlYdWjqUM2wxMHtqdAXWSD5CBQn3RHPcUxvsfhd5Ps9gNcZ5oMEa57ff7kLwfhT1U2-fto0rCF7LczEOeYJF0hciSKvAvbeNqvsGmyS4GrrCueEhBhwrsVmGxcYbQsGu1fTk7rGhSH8KN106qWWUbEVS5G2NpInCjmEg",
+            "width" : 1280
+         },
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100652728505747953221/photos\"\u003ePATELS CAR MOTORS\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAo4nRS5Sz5vjNTJsxYDvz246P37ElP7sP0l6dW5hvVjQmnQCYE0HW8aR5tubMbMqx4HXXlmKxqO8umiVHiiWEigtI24quPfmDnXvtoS3Xw3uomhIvTq3Wn9q-HWgd6L47EhDf8bx7cJpmFIXy4B2AXDzyGhQtwd0b2ji4wld6lfGXOn3CGeB6Fw",
+            "width" : 1280
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109054455151919522900/photos\"\u003eSrikar Reddy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA8JMxyyBcEgsRRke4VOBJ7fz3M5eQxZEkgbhdJgi34UcuNA_-fFUnGNdxwYrQ6DuJBDaP1Zivt6THZhgZ9TOD3Tmj0HyLeLmsFdsnOffyxgbOYO_5FCqYAkqiFqNKsOyPEhD8_Cv3tEMYnWBGVSztJeTYGhST_fhiRcAb7_pXUq5YzqDguaJfxw",
+            "width" : 4032
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113275468948745618176/photos\"\u003esandeep chawan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAPdmrcMOIy_8jxAQs8UJvhM3V-PXP0scIQcBCCVnsPsQBxzOQ8OF0_waCF21oOc1eibJNO7sUTz3q9I5WuGgHJwJpBJ4BtPWuFb0W5fUGvjqx_2gb5YBUUQE0MqdxmVu5EhDgJu3kIQWzegRh1p-u7NpGGhSjIjHgCh8zvyo8BavrdjbEIlxdyQ",
+            "width" : 4160
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113275468948745618176/photos\"\u003esandeep chawan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAATfcRK-hPyeuHtP4y4Ttt7LkBuOjDi3uz4kutcMQ_zODS3HYHiIK5zoxoPAGIjTnNprplwnBQXEnWTBmC6SFUvB5-hf98YNdqiuCCw2U5dKzNq--oiJEzqj0RAlBhTw0EhCOwG2zexkl_XYlr0ymsRQQGhQZ9UGnHYRdjTAxUhneYNjThlN2Cg",
+            "width" : 4160
+         },
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113275468948745618176/photos\"\u003esandeep chawan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAAMM-ZbkM5Tlrw1uUEMm5ela-gSmp_mxHPx1jQS3crde3vLlM0aPwNody_ZvaJWO1MwFceX9Esv5KTa9Qe8agWiID7Gm_KHQNughNRjblyXRpiggJ3OktYFR89qUG5Mp2EhDhcAtnssTljGb7t104bJNHGhTbmt9zSjW7m58AuEEn_w65tpxTkw",
+            "width" : 3120
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109916621116819403973/photos\"\u003eaarun kumar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA5DU-fBSYIKOMisl6qV4_HKiAtpbkJzWHzmABolpAFKMu9hVclFK58N_AUgOY6n9hGtWIoxjSOoKqLxO0Cz3WOtPujzk_sPXVP2LBLEhNbviHeKfILj-29CjSwdzmrtKLEhDfLMyrVdYfdxRy97EpVZp7GhRAHlD41WHW4K6fF25Gjt2r9M9E3A",
+            "width" : 3264
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113275468948745618176/photos\"\u003esandeep chawan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAAdVtBBOxLZUKaFbF04b_8kCr7CKyBYtjJg60LwxX09lEsuHK7beTd-hnXazEySncdRU7Yt8wx5j2C-ReAPjnqUXhM5oVsaGAgkIrdbw0HcD-4dZ4EHsCPyPPxP3juGI6EhAQwnnNBPNa7OmXZh1eOaNpGhQ29Q6yTReXy6TC-3mQ4NbNw04Bdw",
+            "width" : 4160
+         }
+      ],
+      "place_id" : "ChIJ52nLN0jyyzsRmLkqOhOmq7g",
+      "plus_code" : {
+         "compound_code" : "G6VG+5G Muthangi, Hyderabad, Telangana, India",
+         "global_code" : "7J9WG6VG+5G"
+      },
+      "rating" : 4.399999999999999,
+      "reviews" : [
+         {
+            "author_name" : "LJKV Prasadarao",
+            "author_url" : "https://www.google.com/maps/contrib/112250648161808117493/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.ggpht.com/-jUTC7H-S9wo/AAAAAAAAAAI/AAAAAAAAAAA/B1wmSrpmx98/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "7 months ago",
+            "text" : "They do a good service and the service station looks well equipped.  They provide service even on holidays 24/7, very helpful for emergency.  Friendly advice and handle the vehicle with care.  Pricing appears to be high.",
+            "time" : 1553964868
+         },
+         {
+            "author_name" : "sravan kumar",
+            "author_url" : "https://www.google.com/maps/contrib/104066115003291124741/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.ggpht.com/-ICCp2DufDQo/AAAAAAAAAAI/AAAAAAAAAAA/8VyJ1vBVXz8/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "Great response an well service by workers fully satisfied with my vehicle",
+            "time" : 1567863810
+         },
+         {
+            "author_name" : "Vikram Singh Chaudhary",
+            "author_url" : "https://www.google.com/maps/contrib/115486296610634079434/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.ggpht.com/-3i9WRYDVPY0/AAAAAAAAAAI/AAAAAAAAAAA/BHxWUS5QbIU/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "Awesome services, I done complete engine work and it's perfectly like a new vehicle. Thanks team 👍",
+            "time" : 1566295554
+         },
+         {
+            "author_name" : "Shanker Karati king",
+            "author_url" : "https://www.google.com/maps/contrib/109721182769002400805/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.ggpht.com/-idN_2YfMxz8/AAAAAAAAAAI/AAAAAAAAAAA/X9b43cMzlXE/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "2 months ago",
+            "text" : "Doing good work and maintenance is good",
+            "time" : 1566643868
+         },
+         {
+            "author_name" : "Joshil Patel",
+            "author_url" : "https://www.google.com/maps/contrib/103183928216563705310/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.ggpht.com/-2q3ZslEZbNU/AAAAAAAAAAI/AAAAAAAAAAA/k3nqCnMoCOg/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "7 months ago",
+            "text" : "Had an awesome experience at Patel car motors. They made my car look new again.",
+            "time" : 1553411765
+         }
+      ],
+      "types" : [ "car_repair", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=13306912125506730392",
+      "user_ratings_total" : 36,
+      "utc_offset" : 330,
+      "vicinity" : "Near, Nehru Outer Ring Road, Muthangi, Hyderabad",
+      "website" : "https://patels-car-motors.business.site/?utm_source=gmb&utm_medium=referral"
+   },
+   "status" : "OK"
+}
+
